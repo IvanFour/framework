@@ -252,5 +252,9 @@ abstract class BaseModel extends BaseModelMethods
 
     }
 
+    public function git(){
+
+    }
+
 
 }

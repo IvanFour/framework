@@ -1,0 +1,848 @@
+Fault:22-12-2020 5:24:38 - Не удалось подключиться к MySQL: (1049) Unknown database 'frameworkphp5'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line17
+
+Fault:22-12-2020 7:35:23 - Ошибка в SQL запросе: r - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'r' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:22-12-2020 7:35:24 - Ошибка в SQL запросе: r - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'r' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 1:08:20 - Ошибка в SQL запросе: SELECT * FROM products WHERE parent_id = (SELECT id FROM categories WHERE id = parent_id) - 1054 Unknown column 'parent_id' in 'where clause'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 1:09:21 - Ошибка в SQL запросе: SELECT * FROM products WHERE parent_id = (SELECT id FROM categories WHERE name = Iphone) - 1054 Unknown column 'parent_id' in 'where clause'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 1:09:22 - Ошибка в SQL запросе: SELECT * FROM products WHERE parent_id = (SELECT id FROM categories WHERE name = Iphone) - 1054 Unknown column 'parent_id' in 'where clause'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 1:10:19 - Ошибка в SQL запросе: SELECT * FROM products WHERE category_id = (SELECT id FROM categories WHERE name = Iphone) - 1054 Unknown column 'Iphone' in 'where clause'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 2:10:22 - Ошибка в SQL запросе: SELECT products.id as product_id, products.name as product_name,
+            categories.id as categories_id, categories.name as categories_name  
+            FROM products 
+            LEFT JOIN categories ON products.parent_id = categories.id - 1054 Unknown column 'products.parent_id' in 'on clause'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 2:10:23 - Ошибка в SQL запросе: SELECT products.id as product_id, products.name as product_name,
+            categories.id as categories_id, categories.name as categories_name  
+            FROM products 
+            LEFT JOIN categories ON products.parent_id = categories.id - 1054 Unknown column 'products.parent_id' in 'on clause'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 2:20:36 - Ошибка в SQL запросе: SELECT products.id as product_id, products.name as product_name,
+            categories.id as categories_id, categories.name as categories_name  
+            FROM products 
+            LEFT JOIN categories ON products.category_id = categories.id WHERE categories_id = 1 - 1054 Unknown column 'categories_id' in 'where clause'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:08:29 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.id' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:08:30 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.id' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:10:34 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.id' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:10:35 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.id' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:10:35 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.id' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:10:36 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.id' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:10:36 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.id' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:11:03 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id - 1054 Unknown column 'students.name' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:12:59 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id;
+            LEFT JOIN students ON students.id = student_teacher.student_id - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN students ON students.id = student_teacher.student_id' at line 5
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:23-12-2020 5:13:00 - Ошибка в SQL запросе: SELECT teachers.id as teachers_id, teachers.name as teachers_name,
+            students.id as students_id, students.name as students_name  
+            FROM teachers 
+            LEFT JOIN student_teacher ON teachers.id = student_teacher.teacher_id;
+            LEFT JOIN students ON students.id = student_teacher.student_id - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN students ON students.id = student_teacher.student_id' at line 5
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line31
+
+Fault:27-12-2020 12:09:54 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') OR teachers.name LIKE 'Учитель3%' AND teachers.content='7878' AND teachers.fio<>'Semol'  ORDER BY teachers.name DESC,teachers.content DESC 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:27-12-2020 12:09:57 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') OR teachers.name LIKE 'Учитель3%' AND teachers.content='7878' AND teachers.fio<>'Semol'  ORDER BY teachers.name DESC,teachers.content DESC 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:27-12-2020 14:20:29 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name,join_table1.id as j_id,join_table1.name as j_name,join_table2.id as j_id,join_table2.name as j_name FROM teachers LEFT JOIN join_table1 ON teachers.id=join_table1.id LEFT JOIN join_table2 ON teachers.id=join_table2.id WHERE teachers.id IN ('1','3') OR teachers.name LIKE 'Учитель3%' AND teachers.content='7878' AND teachers.fio<>'Semol' AND join_table1.name='Учитель3' AND join_table2.name='Учитель3'  ORDER BY teachers.name DESC,teachers.content DESC 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:27-12-2020 18:14:33 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') OR teachers.name LIKE 'Учитель3%' AND teachers.content='7878' AND teachers.fio<>'Semol'  ORDER BY teachers.name DESC,teachers.content DESC 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 9:33:47 - Не удалось подключиться к MySQL: (2002) Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line17
+
+Fault:28-12-2020 12:37:47 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') OR teachers.name LIKE 'Учитель3%' AND teachers.content='7878' AND teachers.fio<>'Semol'  ORDER BY teachers.name DESC,teachers.content DESC 1 - 2006 MySQL server has gone away
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 12:55:15 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') OR teachers.name LIKE 'SELECT name FROM students WHERE id =1%'  ORDER BY teachers.name DESC,teachers.content DESC 1 - 2006 MySQL server has gone away
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 12:58:57 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') OR teachers.name LIKE 'SELECT name FROM students WHERE id =1%'  ORDER BY teachers.name DESC,teachers.content DESC 1 - 2006 MySQL server has gone away
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 16:34:11 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') AND teachers.name NOT IN (SELECT name FROM students WHERE id =1)  ORDER BY teachers.name DESC,teachers.content DESC 1 - 2006 MySQL server has gone away
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 16:35:46 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') AND teachers.name<>(SELECT name FROM students WHERE id = 2)  ORDER BY teachers.name DESC,teachers.content DESC 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 16:35:58 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') AND teachers.name<>(SELECT name FROM students WHERE id = 2)  ORDER BY teachers.name DESC,teachers.content DESC LIMIT1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 16:36:03 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') AND teachers.name<>(SELECT name FROM students WHERE id = 2)  ORDER BY teachers.name DESC,teachers.content DESC LIMIT1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 17:10:14 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name FROM teachers  WHERE teachers.id IN ('1','3') AND teachers.name<>(SELECT name FROM students WHERE id = 2)  ORDER BY teachers.name DESC,teachers.content DESC LIMIT 1 - 2006 MySQL server has gone away
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 17:20:48 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name,join_table1.id as j_id,join_table1.name as j_name FROM teachers LEFT JOIN join_table1 ON teachers.id=join_table1.parent_id WHERE teachers.id*'1, 3' AND teachers.name*'O\'Teach' AND join_table1.name='Учитель3'  ORDER BY teachers.name DESC LIMIT 1 - 1146 Table 'frameworkphp.join_table1' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 19:36:31 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name,join_table1.id as j_id,join_table1.name as j_name,join_table2.id as j_id,join_table2.name as j_name FROM teachers LEFT JOIN join_table1 ON teachers.id=join_table1.parent_id LEFT JOIN join_table2 ON teachers.id=join_table2.parent_id WHERE teachers.id*'1, 3' AND teachers.name*'O\'Teach' AND join_table1.name='Учитель3' AND join_table2.name='Учитель3'  ORDER BY teachers.name DESC LIMIT 1 - 1146 Table 'frameworkphp.join_table1' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:28-12-2020 19:37:02 - Ошибка в SQL запросе: SELECT teachers.id,teachers.name,join_table1.id as j_id,join_table1.name as j_name,join_table2.id as j_id,join_table2.name as j_name FROM teachers LEFT JOIN join_table1 ON teachers.id=join_table1.parent_id LEFT JOIN join_table2 ON teachers.id=join_table2.parent_id WHERE teachers.id*'1, 3' AND teachers.name*'O\'Teach' AND join_table1.name='Учитель3' AND join_table2.name='Учитель3'  ORDER BY teachers.name DESC LIMIT 1 - 1146 Table 'frameworkphp.join_table1' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:31-12-2020 10:43:53 - Ошибка в SQL запросе: INSERT INTO teachers (name,content,gallery_img,img,) VALUES ('Olga','Hello','\"Hello\"','Hello',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Olga','Hello','\"Hello\"','Hello',)' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:31-12-2020 10:58:15 - Ошибка в SQL запросе: INSERT INTO teachers (name,content,gallery_img,img,) VALUES ('Olga','Hello','\"Hello\"','Hello',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Olga','Hello','\"Hello\"','Hello',)' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:31-12-2020 11:12:10 - Ошибка в SQL запросе: INSERT INTO teachers (content,gallery_img,img) VALUES ('Hello2','[\"red.jpg\",\"blue.jpg\"]','main_img.jpg') - 1364 Field 'name' doesn't have a default value
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:31-12-2020 16:05:33 - Ошибка в SQL запросе: UPDATE teachers SET name=Masha'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:31-12-2020 16:07:21 - Ошибка в SQL запросе: UPDATE teachers SET name=Masha'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:31-12-2020 16:08:48 - Ошибка в SQL запросе: UPDATE teachers SET name=Masha'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:31-12-2020 16:27:58 - Ошибка в SQL запросе: UPDATE teachers SET id='2',name='Semuel' WHERE teachers.id='1'  - 1062 Duplicate entry '2' for key 'teachers.PRIMARY'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:03-01-2021 17:28:47 - Ошибка в SQL запросе: UPDATE teachers SET  WHERE id=<p>Mew Yer</p> - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=<p>Mew Yer</p>' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line39
+
+Fault:17-01-2021 11:05:41 - Ошибка в SQL запросе: INSERT INTO students (name,content) VALUES ('students - 0','content - 0') - 1364 Field 'price' doesn't have a default value
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line40
+
+Fault:17-01-2021 11:06:29 - Ошибка в SQL запросе: INSERT INTO students (name,content) VALUES ('students - 0','content - 0') - 1364 Field 'category_id' doesn't have a default value
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line40
+
+Fault:17-01-2021 11:06:44 - Ошибка в SQL запросе: INSERT INTO teachers (name,content,student_id) VALUES ('teacher - 0','content - 0','4') - 1364 Field 'img' doesn't have a default value
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line40
+
+Fault:17-01-2021 11:08:03 - Ошибка в SQL запросе: INSERT INTO teachers (name,content,student_id) VALUES ('teacher - 0','content - 0','5') - 1364 Field 'gallery_img' doesn't have a default value
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line40
+
+Fault:17-01-2021 11:48:26 - Ошибка в SQL запросе: UPDATE teachers SET name=,img= WHERE teachers.id='8'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',img= WHERE teachers.id='8'' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line40
+
+Fault:17-01-2021 12:26:41 - Ошибка в SQL запросе: UPDATE teachers SET name=NULL,img=NULL WHERE teachers.id='8'  - 1048 Column 'name' cannot be null
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line40
+
+Fault:20-01-2021 3:51:06 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 3:51:08 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 4:12:32 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:39:18 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:39:23 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:40:58 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:41:03 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:41:06 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:41:44 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:46:38 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:54:04 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 9:54:05 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:03:38 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:05:51 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:06:07 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:07:01 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:10:09 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:10:10 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:10:31 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:10:40 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:13:34 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:14:41 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:14:46 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:15:20 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:00 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:01 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:02 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:03 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:05 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:06 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:08 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:19:09 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:20:50 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:21:27 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:21:29 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:21:39 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:21:55 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:21:56 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:22:10 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:22:29 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:22:51 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:22:52 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:23:23 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:23:38 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:24:07 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:24:36 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:24:38 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:24:39 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:24:54 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:24:55 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:25:11 - Ошибка в SQL запросе: SHOW COLUMNS FROM Array - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:25:51 - Ошибка в SQL запросе: SHOW COLUMNS FROM show - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'show' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:26:10 - Ошибка в SQL запросе: SHOW COLUMNS FROM show - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'show' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:20-01-2021 10:35:17 - Ошибка в SQL запросе: SELECT student_teacher.id as id ,student_teacher.content FROM student_teacher     - 1054 Unknown column 'student_teacher.content' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:35:46 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = frameworkphp AND TABLE_NAME = articles
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:40:47 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:40:48 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:41:20 - Ошибка в SQL запросе: SHOW COLUMNS FROM show - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'show' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:41:30 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:42:25 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:43:19 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:43:20 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:43:22 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:43:27 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:43:29 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:45:49 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:47:34 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:47:35 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:49:20 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:49:21 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:51:48 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:51:49 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:54:21 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:54:53 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:55:15 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME '<>' 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''<>' 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 11:56:46 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME '<>' 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''<>' 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:05:19 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME '<>' 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''<>' 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:07:00 - Ошибка в SQL запросе: SHOW COLUMNS FROM sudents - 1146 Table 'frameworkphp.sudents' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:48:56 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:49:11 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:49:45 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'students' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:49:47 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'students' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:49:48 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'students' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:49:49 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'students' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:51:29 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:51:34 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:51:39 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:54:20 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:22-01-2021 12:54:21 - Ошибка в SQL запросе: SELECT * FROM information_shema.KEY_COLUMN_USAGE 
+                  WHERE TABLE_SCHEMA = 'frameworkphp' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1049 Unknown database 'information_shema'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 15:57:23 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 15:57:47 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 15:57:49 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 15:57:50 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 15:58:13 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:14:37 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:14:38 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:40:27 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:41:09 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:41:10 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:41:24 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:41:40 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:43:40 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:44:31 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:45:27 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:49:47 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:52:37 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:55:24 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:55:57 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:58:04 - Ошибка в SQL запросе: SELECT pages. as id,pages.name FROM pages     - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,pages.name FROM pages' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:59:34 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:59:34 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 16:59:36 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:01:36 - Ошибка в SQL запросе: SELECT pages. as id,pages.name FROM pages     - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,pages.name FROM pages' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:09:33 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:09:37 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:09:38 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:17:52 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:17:53 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:17:56 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:17:57 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:17:59 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:18:00 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:44:12 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:49:47 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:25-01-2021 17:49:48 - Ошибка в SQL запросе: SELECT pages.pages as id,pages.name FROM pages     - 1054 Unknown column 'pages.pages' in 'field list'
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line75
+
+Fault:26-01-2021 17:04:11 - Ошибка в SQL запросе: SELECT teachers.COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:06:15 - Ошибка в SQL запросе: SELECT teachers.COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:21:01 - Ошибка в SQL запросе: SELECT Array.* FROM Array     - 1146 Table 'frameworkphp.array' doesn't exist
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:22:11 - Ошибка в SQL запросе: SELECT teachers.COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:28:49 - Ошибка в SQL запросе: SELECT teachers.COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:31:06 - Ошибка в SQL запросе: SELECT teachers. COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:31:08 - Ошибка в SQL запросе: SELECT teachers. COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:31:09 - Ошибка в SQL запросе: SELECT teachers. COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COUNT(*) as count FROM teachers  WHERE parent_id IS NULL OR parent_id = 0' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:26-01-2021 17:49:05 - Ошибка в SQL запросе: SHOW COLUMNS FROM teachers?page=1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?page=1' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+
+Fault:27-01-2021 15:03:11 - Ошибка в SQL запросе: SHOW COLUMNS FROM teachers? - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+fileC:\OpenServer\domains\InternetMagaz\core\base\models\BaseModel.php
+In line76
+

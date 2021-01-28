@@ -1,0 +1,957 @@
+
+Fault:20-01-2021 3:46:54 - No view exists - core/admin/views/include/header
+fileC:\OpenServer\domains\InternetMagaz\core\base\controllers\BaseController.php
+In line118
+
+Fault:20-01-2021 3:50:54 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:50:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:50:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:50:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:50:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:50:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:50:55 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:50:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 3:52:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/CoreController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:20 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/CoreController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:10:22 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/CoreController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:02 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/CoreController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:15 - Не верное имя файла для подключения - core/user/controllers/CoreController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:15 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:16 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:16 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:16 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:16 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:16 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:11:16 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:07 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:07 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:08 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:08 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:08 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:08 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:08 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:19 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:12:34 - Не верное имя файла для подключения - core/admin/controllers/EditController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:17:36 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:17:36 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:17:36 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:17:36 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:17:37 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:17:37 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 4:17:37 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 7:17:22 - Не верное имя файла для подключения - core/admin/controllers/EditController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:18:42 - Не верное имя файла для подключения - core/admin/controllers/EditController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:00 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:00 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:01 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:01 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:01 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:01 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:01 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:03 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:05 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:05 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:05 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:05 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:19:06 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:42:14 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:42:14 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:42:14 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:42:14 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:42:14 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:53:13 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:53:13 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:53:13 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 8:53:13 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:24 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:24 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:24 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:24 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:29 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:29 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:29 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:04:29 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:05:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:05:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:05:09 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:05:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:13:56 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:13:56 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:14:01 - Не верное имя файла для подключения - core/admin/controllers/EditController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:14:04 - Не верное имя файла для подключения - core/admin/controllers/AdminController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:22:30 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:22:31 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:27:31 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:27:31 - Не верное имя файла для подключения - core/user/controllers/ImagesController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:28:40 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:32:12 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:32:16 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:32:29 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:33:25 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:38:43 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:39:15 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:40:57 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:42:52 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:00 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:01 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:04 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:05 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:06 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:07 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:08 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:08 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:11 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:12 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:21 - Не верное имя файла для подключения - core/admin/controllers/StudentsController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:26 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:32 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:36 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:40 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:45 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 9:43:48 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:10:22 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:25:37 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:25:49 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:26:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:32:44 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:32:53 - Не верное имя файла для подключения - core/user/controllers/StudentsController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:33:02 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:33:24 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:33:38 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:33:52 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:34:12 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:35:10 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:35:14 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:35:28 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:35:30 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:39:53 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:39:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:39:57 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:20-01-2021 10:41:59 - Не верное имя файла для подключения - core/admin/controllers/EditController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:21-01-2021 16:16:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:21-01-2021 18:54:57 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:21-01-2021 18:54:59 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:01 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:11 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:13 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:17 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:18 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:19 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 11:41:20 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:05:43 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:05:47 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:06:16 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:06:18 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:07:11 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:07:36 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:07:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:07:51 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:07:52 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:07:54 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:07:55 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:11:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:18:17 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:24:39 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:27:51 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:28:31 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:33:07 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:39:25 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:39:27 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:39:28 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:39:54 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:39:56 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:39:57 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:40:06 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:40:41 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:41:08 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:41:54 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:43:06 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:43:07 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:43:34 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:43:46 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:44:33 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:22-01-2021 12:47:07 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:25-01-2021 17:50:29 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 12:36:36 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 12:38:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 12:38:36 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 12:40:30 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 12:42:03 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 12:46:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 12:46:09 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 17:48:45 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 17:50:27 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 17:50:41 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 17:50:45 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 17:50:47 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 17:50:48 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:26-01-2021 17:51:56 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:27-01-2021 15:01:43 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:27-01-2021 15:03:07 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
+Fault:27-01-2021 16:49:59 - Не верное имя файла для подключения - core/user/controllers/TemplateController
+fileC:\OpenServer\domains\InternetMagaz\core\base\settings\internal_settings.php
+In line31
+
